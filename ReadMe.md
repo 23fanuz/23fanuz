@@ -14,6 +14,8 @@ under the hood.
 ## Things I'm into
 - **AI-assisted engineering**: I'm an avid Claude Code user, and I'm always
   finding better ways to pair it with testing
+- **Hardware and Raspberry Pis**: I like software that touches the real world
+- **Computer vision**: teaching machines to see
 - **Basketball**: watching it, playing it, and now building analytics for it
 - **Flags and geography**: it started as a quiz app and I can't stop
 - **Running**: working my way up to 26.2
