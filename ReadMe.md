@@ -1,18 +1,36 @@
-# 💫 About Me:
-# Hey, I'm Steph 👋<br><br>I break things for a living, politely, and then help make them unbreakable.<br>I test XR and Android software, and I love figuring out how systems really work<br>under the hood.<br><br>## Right now<br>- 🧪 Testing XR and AR headsets, devices, and the software that runs on them<br>- 🤖 Using Claude Code and other AI tools in my development and testing workflow<br>- 🏀 Building **HoopVision**, a basketball analytics app, to get better at system design<br>- 🧠 Learning system design and AI frameworks<br>- 🏃‍♀️ Training for my first marathon in 2027<br><br>## Things I'm into<br>- **AI-assisted engineering**: I'm an avid Claude Code user, and I'm always<br>  finding better ways to pair it with testing<br>- **Basketball**: watching it, playing it, and now building analytics for it<br>- **Flags and geography**: it started as a quiz app and I can't stop<br>- **Running**: working my way up to 26.2<br>- **Old books**: I read 19th-century literature for fun<br>- **Learning by building**: I'd rather make a real thing than finish a tutorial<br><br>## Stuff I've built<br>- 🔌 [api-automation-framework](https://github.com/23fanuz/api-automation-framework):<br>  API tests in Python with Playwright, Pytest, Pydantic, and Allure<br>- 🚩 [world-flag-trivia](https://github.com/23fanuz/world-flag-trivia):<br>  a flag quiz for Android, built in Kotlin<br>- 🏀 [hoop-vision](https://github.com/23fanuz/hoop-vision):<br>  basketball analytics, built step by step<br><br>## Fun fact<br>My bookshelf is in 1850 and my terminal is in 2026. I've been "reviewing legacy<br>code" since before it was a job. The classics just have worse documentation.<br><br>## Say hi<br>[LinkedIn](https://linkedin.com/in/stephaniefanuz/)
+# Hey, I'm Steph 👋
 
+I break things for a living, politely, and then help make them unbreakable.
+I test XR and Android software, and I love figuring out how systems really work
+under the hood.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephaniefanuz) 
+## Right now
+- 🧪 Testing XR and AR headsets, devices, and the software that runs on them
+- 🤖 Using Claude Code and other AI tools in my development and testing workflow
+- 🏀 Building **HoopVision**, a basketball analytics app, to get better at system design
+- 🧠 Learning system design and AI frameworks
+- 🏃‍♀️ Training for my first marathon in 2027
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=23fanuz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=23fanuz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=23fanuz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Things I'm into
+- **AI-assisted engineering**: I'm an avid Claude Code user, and I'm always
+  finding better ways to pair it with testing
+- **Basketball**: watching it, playing it, and now building analytics for it
+- **Flags and geography**: it started as a quiz app and I can't stop
+- **Running**: working my way up to 26.2
+- **Old books**: I read 19th-century literature for fun
+- **Learning by building**: I'd rather make a real thing than finish a tutorial
 
----
-[![](https://komarev.com/ghpvc/?username=23fanuz&icon=0&color=0)](https://visitcount.itsvg.in)
+## Stuff I've built
+- 🔌 [api-automation-framework](https://github.com/23fanuz/api-automation-framework):
+  API tests in Python with Playwright, Pytest, Pydantic, and Allure
+- 🚩 [world-flag-trivia](https://github.com/23fanuz/world-flag-trivia):
+  a flag quiz for Android, built in Kotlin
+- 🏀 [hoop-vision](https://github.com/23fanuz/hoop-vision):
+  basketball analytics, built step by step
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Fun fact
+My bookshelf is in 1850 and my terminal is in 2026. I've been "reviewing legacy
+code" since before it was a job. The classics just have worse documentation.
+
+## Say hi
+[LinkedIn](https://linkedin.com/in/stephaniefanuz/)
